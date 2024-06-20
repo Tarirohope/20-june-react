@@ -36,6 +36,10 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^8.16.0"
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
+    "ajv": "^8.16.0",
+    "babel-loader": "^9.1.3"
   }
 }
