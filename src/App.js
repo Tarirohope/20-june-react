@@ -4,7 +4,7 @@ import Weather from "./weather";
 function App() {
   return (
     <div>
-      <h1>REACT WEATHER</h1>
+      <h1>REACT WEATHER WAS LAUNCHED</h1>
       <Weather />
     </div>
   );
