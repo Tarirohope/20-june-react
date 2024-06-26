@@ -4,7 +4,6 @@ import Weather from "./weather";
 function App() {
   return (
     <div>
-      <h1>REACT WEATHER WAS LAUNCHED</h1>
       <Weather />
       <p>
         This project was coded by <a href="https://github.com/Tarirohope"></a>
