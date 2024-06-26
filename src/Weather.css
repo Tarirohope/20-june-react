@@ -1,6 +1,8 @@
 .weatherApp {
   width: 50%;
   height: 80vh;
+  background-color: aqua;
+  border: 2px solid black;
   /*background-image: url(img2.jpg)
 
   background-position: center;

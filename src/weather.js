@@ -36,10 +36,10 @@ function Weather() {
                   <div className="current-units">&deg; C</div>
                 </div>
                 <div className="col-sm-6">
-                  <p>
-                    Precipitation: 55% <br />
-                    Wind: 3km/h
-                  </p>
+                  <ul>
+                    <li> Precipitation: 55% </li>
+                    <li>Wind: 3km/h</li>
+                  </ul>
                 </div>
               </div>
               <div className="row mb-3">
