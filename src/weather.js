@@ -18,7 +18,7 @@ function Weather() {
       iconUrl: (
         <img
           src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-day.png"
-          alt="weatherIcon"
+          alt-text="weathericon"
         />
       ),
       description: response.data.condition.description,
