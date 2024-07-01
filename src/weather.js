@@ -16,7 +16,10 @@ function Weather() {
       date: new Date(response.data.time * 1000),
       //response.data.condition.icon_url,
       iconUrl: (
-        <img src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-day.png" />
+        <img
+          src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-day.png"
+          alt="weatherIcon"
+        />
       ),
       description: response.data.condition.description,
     });
